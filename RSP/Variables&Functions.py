@@ -4,4 +4,5 @@ def get_choices():
 
   return computer_choice
 
-
+choices = get_choices()
+print(choices)
