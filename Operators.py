@@ -17,3 +17,17 @@ age = 8
 age *=8 # age = age * 8
 print(age)
 
+
+#Comparison Operators
+a = 1
+b = 2
+
+a == b #False
+a != b #True
+a > b #False
+a < b #True
+a <= b #True
+a >= b #False
+
+
+
