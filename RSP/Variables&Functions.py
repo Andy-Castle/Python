@@ -8,5 +8,5 @@ def get_choices():
 
   return choices
 
-choices = get_choices()
-print(choices)
+def checkWin(player, computer):
+  return [player, computer]
